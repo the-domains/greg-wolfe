@@ -1,4 +1,3 @@
-layout_spectrum: 0.3688692811410874
 typography_spectrum: 0.63021703180857
 color:
   brandStrength: 0.8332335494924337
@@ -11,4 +10,9 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.3688692811410874
+author:
+  name: greg Wolfe
+  email: gw@tripleluxe.com
 name: GREG WOLFE
+title: Producer/Songwriter/Guitarist/Lover/Global Thinker
