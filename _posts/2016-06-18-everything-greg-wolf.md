@@ -61,10 +61,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=05jtBXD_kTs'
 title: '"everything" greg wolf'
-datePublished: '2016-06-18T01:38:21.758Z'
-dateModified: '2016-06-18T01:38:21.577Z'
+datePublished: '2016-06-18T01:38:22.732Z'
+dateModified: '2016-06-18T01:38:22.566Z'
 sourcePath: _posts/2016-06-18-everything-greg-wolf.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
