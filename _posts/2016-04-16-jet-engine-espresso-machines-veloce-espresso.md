@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T00:15:46.279Z'
+datePublished: '2016-08-20T01:01:50.558Z'
 sourcePath: _posts/2016-04-16-jet-engine-espresso-machines-veloce-espresso.md
 inFeed: true
 isBasedOnUrl: 'http://www.trendhunter.com/trends/veloce-espresso'
@@ -8,7 +8,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T00:15:46.059Z'
+dateModified: '2016-08-20T01:01:50.346Z'
 title: Songwriting
 app_links: []
 publisher: {}
